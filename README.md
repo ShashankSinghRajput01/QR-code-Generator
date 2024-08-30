@@ -14,7 +14,7 @@ Clone the repository to your local machine:
 
 bash
 Copy code
-git clone [https://github.com/your-username/qr-code-generator.git](https://github.com/ShashankSinghRajput01/QR-code-Generator)
+git clone [https://github.com/ShashankSinghRajput01/QR-code-Generator.git](https://github.com/ShashankSinghRajput01/QR-code-Generator)
 Navigate to the project directory:
 
 bash
