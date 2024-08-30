@@ -5,7 +5,7 @@ The QR Code Generator is a terminal-based application that allows users to gener
 Technologies Used:
 Node.js: For handling command-line interactions and generating QR codes.
 JavaScript: For the core logic of QR code generation.
-[Any Additional Libraries]: Mention any specific Node.js packages used, such as qrcode for generating the QR codes.
+
 
 Installation and Setup:
 To run this project locally, follow these steps:
